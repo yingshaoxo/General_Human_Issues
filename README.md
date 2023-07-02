@@ -2,11 +2,11 @@
 This is a repository that lists those general human issues that waiting for solving.
 
 ## Mosquito (蚊子
-If you got bit whereever you go, how can you live happyly?
+If you got bite wherever you go, how can you live happyly?
 
-Why mosquito bit human for thoghds of years, and human still coudn't let it dispear from earth?
+Why mosquito bite human for thousands of years, and human still couldn't let it dispear from earth?
 
-Why's the point of those high tech If they can't even destoy small mosquitos?
+Why's the point of those high tech If they can't even destroy small mosquitos?
 
 > 为什么人类文明进化到了这个程度，世界上还有蚊子？走到哪儿都能被蚊子咬？一被咬就难受。~~世界上是不是只有我一个肉体人类？~~
 
