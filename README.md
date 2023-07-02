@@ -22,7 +22,7 @@ According to my research, most of those products in the market, they say they ca
 
 > 说好的恒温热水器，结果不管你怎么折腾，最终都给你输出高于42度的热水，皮肤都烫熟了，怎么安心洗澡？(人体需要36.5度的恒温热水用于洗澡)
 
-## Sound Noise
+## Sound Noise (生活噪音
 According to my feeling, for most every city, they always has loud noises near the street.
 
 It seems like not every building uses noise cancelling tech to decrease the noises.
